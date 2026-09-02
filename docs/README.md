@@ -4,8 +4,9 @@ This folder contains the technical documentation and experimental papers for the
 
 ## Architecture Papers
 
-- [ILRM — Inverse Lag Recurrent Memory](ILRM.pdf)
-- [PLUG — Power-Law Upgraded GRU](PLUG.pdf)
+- [📄 PLUG: Power-Law Upgraded GRU](PLUG.pdf)
+- [📄 ILRM: Inverse Lag Recurrent Memory](ILRM.pdf)
+- [📄 Raw State PLUG & ILRM](Raw_State_PLUG_and_ILRM.pdf)
 
 ## Licensing
 
